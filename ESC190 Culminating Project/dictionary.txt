@@ -1,0 +1,4 @@
+Word	Definition	Author	Number of Searches
+Bruh	A moment	Ryan	0
+Hello	Another greeting	Ryan	0
+Hi	A greeting	Ryan	0
